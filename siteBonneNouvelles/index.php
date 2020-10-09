@@ -1,4 +1,5 @@
 <?php
+
 	# Prise du temps actuel au début du script
 	$time_start = microtime(true);
 
