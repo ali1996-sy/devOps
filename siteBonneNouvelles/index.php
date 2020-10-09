@@ -13,6 +13,7 @@
 	}
 	spl_autoload_register('chargerClasse'); 
 
+	
 	# Ecrire ici le header de toutes pages HTML
 	require_once(CHEMIN_VUES . 'header.php');
 	
